@@ -5,10 +5,11 @@ int main(void) {
     int x;
     double result;
 
-    scanf("%d",%x);
+    scanf("%d", %x);
 
     result = x * 1.08;
 
     printf("%d\n",(int)result);
+
     return 0;
 }
